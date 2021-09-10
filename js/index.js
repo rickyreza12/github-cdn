@@ -1,0 +1,3 @@
+const consume = () =>{
+    alert('helo');
+}
